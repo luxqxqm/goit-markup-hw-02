@@ -70,3 +70,32 @@ a{
     text-decoration: underline;
     color: #404BBF;
 }
+
+
+.address ul{
+    list-style: none;
+}
+.address-link{
+     color: black;
+    text-decoration: none;
+}
+
+.address-link:hover{
+    color: #404BBF;
+}
+
+.btn{
+    color: white;
+    background: #4D5AE5;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: white;
+    background: #404BBF;    
+}
+
+.hero{
+    background: #2E2F42;
+    color: white;
+}
