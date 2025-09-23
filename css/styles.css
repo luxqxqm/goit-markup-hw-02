@@ -106,11 +106,16 @@ ul, li{
     color: white;
     background: #4D5AE5;
     cursor: pointer;
+    letter-spacing: 0.04em;
 }
 
 .btn:hover{
     color: white;
     background: #404BBF;    
+}
+
+.btn:focus{
+    background-color: #404BBF;
 }
 
 .hero{
