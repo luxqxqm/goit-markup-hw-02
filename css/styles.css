@@ -123,3 +123,9 @@ ul, li{
     line-height: 1.5;
     letter-spacing: 0.02em
 }
+
+.hero-text{
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
