@@ -166,6 +166,13 @@ ul, li{
 
 }
 
-.header-li-a.focus:focus{
+.header-li-active:focus{
     color: #404bbf;
+}
+
+.header-li-active{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
