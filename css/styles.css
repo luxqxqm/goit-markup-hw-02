@@ -1,28 +1,3 @@
-title, h1{
-    font-family: "Roboto", sans-serif;
-        font-weight: bold;
-        font-size: 56px;
-        letter-spacing: 2%;
-        line-height: 60px;
-}
-
-h2{
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 36px;
-    letter-spacing: 2%;
-    color: #2E2F42;
-}
-
-h3{
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 20px;
-        letter-spacing: 2%;
-        color: #2E2F42;
-        letter-spacing: 0.02em
-}
-
 body {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -32,16 +7,6 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-
-p{
-    font-family: "Roboto", sans-serif;
-    font-weight:400;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 4%;
-    color: #434455;
-}
-
 .btn{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -95,7 +60,7 @@ ul, li{
     font-style: normal;
 }
 .address-link{
-     color: #434455;
+    color: #434455;
     text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
@@ -111,14 +76,14 @@ ul, li{
 }
 
 .btn{
-    color: white;
+    color: #FFFFFF;
     background: #4D5AE5;
     cursor: pointer;
     letter-spacing: 0.04em;
 }
 
 .btn:hover{
-    color: white;
+    color: #FFFFFF;
     background: #404BBF;    
 }
 
@@ -128,7 +93,7 @@ ul, li{
 
 .hero{
     background: #2E2F42;
-    color: white;
+    color: #FFFFFF;
 }
 
 .section-text-p{
@@ -151,6 +116,7 @@ ul, li{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 
 .spn{
@@ -234,4 +200,6 @@ ul, li{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    font-weight: 400;
+    font-size: 16px;
 }
