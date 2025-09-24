@@ -15,23 +15,11 @@ body {
     letter-spacing: 4%;
 }
 
-a{
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
-    text-decoration: underline;
-
-}
 
 .our-team{
     background: #F4F4FD;
 }
 
-ul, li{
-    list-style-type: none;
-}
 .section-text ul{
     list-style: none;
 }
@@ -174,6 +162,7 @@ ul, li{
 }
 .our-team-li{
     background-color: #FFFFFF;
+    list-style-type: none;
 }
 
 .out-team-mark-guerrero{
@@ -231,4 +220,8 @@ ul, li{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.portfolio-li{
+    list-style-type: none;
 }
